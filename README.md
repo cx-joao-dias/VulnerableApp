@@ -229,4 +229,4 @@ This project is for educational purposes only. See [LICENSE](./LICENSE) for deta
 
 ---
 
-**Remember**: This application is completely safe. Use anywhere.
+**Remember**: This application is completely safe. Use everywhere.
